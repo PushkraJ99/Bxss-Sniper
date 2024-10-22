@@ -68,12 +68,9 @@ bxsniper --help
 #### Method 2:
 
 ```bash
-git clone https://github.com/PushkraJ99/Bxss_Sniper.git
-
-cd Bxss_Sniper
-
-pip install .
-
+git clone https://github.com/PushkraJ99/Bxss-Sniper.git
+cd Bxss-Sniper
+pip install . --break-system-packages
 bxsniper --help
 ```
 
