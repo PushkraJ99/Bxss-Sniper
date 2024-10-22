@@ -68,7 +68,7 @@ bxsniper --help
 #### Method 2:
 
 ```bash
-git clone https://github.com/sanjai-AK47/Bxss_Sniper.git
+git clone https://github.com/PushkraJ99/Bxss_Sniper.git
 
 cd Bxss_Sniper
 
